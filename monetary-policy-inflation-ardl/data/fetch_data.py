@@ -20,8 +20,8 @@ import pandas as pd
 import os
 
 COUNTRY_CODE = "NGA"
-START_YEAR = 1985
-END_YEAR = 2022
+START_YEAR = 1960
+END_YEAR = 2025
 
 # World Bank indicator codes for each model variable
 INDICATORS = {
