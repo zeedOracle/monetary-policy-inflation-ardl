@@ -6,7 +6,7 @@ generates a short-term forecast using an ARIMA time-series model.
 Built to demonstrate: data pipeline → economic modeling → interactive
 visualization → deployment.
 
-**[Live demo →](#)** *(add your Streamlit Cloud link here once deployed)*
+**[Live demo →](#)** *https://nigeria-inflation-dashboard-dpzrf6uxwt4bf9jqltujuf.streamlit.app/*
 
 ## What it does
 
